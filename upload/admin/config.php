@@ -11,7 +11,7 @@ define('HTTPS_CATALOG', 'http://opencart.loc/upload/');
 define('DIR_APPLICATION', 'C:/OSPanel/domains/opencart.loc/upload/admin/');
 define('DIR_SYSTEM', 'C:/OSPanel/domains/opencart.loc/upload/system/');
 define('DIR_IMAGE', 'C:/OSPanel/domains/opencart.loc/upload/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', 'C:/OSPanel/domains/storage/');
 define('DIR_CATALOG', 'C:/OSPanel/domains/opencart.loc/upload/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
